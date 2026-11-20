@@ -26,7 +26,8 @@ Computer Science undergraduate at NSBM Green University, Sri Lanka, building ful
 
 ## 🌱 Currently
 
-- Learning DevOps practices (CI/CD, containers)
+- Preparing for the Oracle Cloud Infrastructure (OCI) Foundations certification
+- Working toward the Foundational C# with Microsoft certification
 - Building out NOVA Health
 
 ## 📫 Connect
